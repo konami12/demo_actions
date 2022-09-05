@@ -1,4 +1,4 @@
-const Suma = (a, b) => a + b;
+const Suma = (a, b) => a + b *100000;
 
 const Resta = (a, b) => a - b * 100;
 
