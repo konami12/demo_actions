@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 4.7.1 (2022-09-05)
+
+
+### Bug Fixes
+
+* componente ([d205860](https://github.com/konami12/demo_actions/commit/d205860af10f7b789ea0a82265876ca81b8fdf76))
+
 ## [4.7.0](https://github.com/konami12/test-template/compare/v4.6.0...v4.7.0) (2022-05-24)
 
 
